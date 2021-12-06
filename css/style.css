@@ -1,20 +1,7 @@
 * {
     box-sizing: border-box;
   }
-  /* html,
-  body {
-    min-height: 100%;
-    height: 100%;
-    background-image: url("http://theartmad.com/wp-modal_content/uploads/Dark-Grey-Texture-Wallpaper-5.jpg");
-    background-size: cover;
-    background-position: top center;
-    font-family: helvetica neue, helvetica, arial, sans-serif;
-    font-weight: 200;
-  } */
-  /* html.modal-active,
-  body.modal-active {
-    overflow: hidden;
-  } */
+  
   #modal_container {
     position: fixed;
     display: table;

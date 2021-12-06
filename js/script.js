@@ -4,6 +4,7 @@ $(document).ready(function(){
         $('#modal_container').removeAttr('class').addClass(buttonId);
         $('body').addClass('modal-active');
     })
+
     
     $('#modal_container').click(function(){
         $(this).addClass('out');
