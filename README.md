@@ -8,7 +8,7 @@ github_test
 2. github repository
 레파지스토리 주소 : https://github.com/jun-0318/project1206.git
 
-3. git 사용해본 소감
+3. git 사용해본 소감 <br>
 Q. 형상관리 도구 git을 사용하기 전과, 사용하고 나서 느낀점을 적어주세요. <br>
   A. 사용하기전에는 filezlia를 통해서 모든파일을 덮혀씌우면서 옮기곤 했는데,
   git을 사용함으로써 좀 더 편리하게 파일을 올리고 다시 내려 받을 수 있다는걸 느꼈습니다. 
