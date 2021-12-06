@@ -1,7 +1,7 @@
 # project1206
 github_test
 
-프로젝트 이름 : modal button style
+프로젝트 이름 : modal button style <br>
 프로젝트 기간 : 2021.11.22 ~ 11.24
 
 1. git versoin
