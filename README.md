@@ -6,7 +6,7 @@ github_test
 ![git_version](https://user-images.githubusercontent.com/75514791/144797393-b0fa576b-2d2a-404d-a53a-97d164729cca.PNG)
 
 2. github repository
-레파지스토리 주소 : 
+레파지스토리 주소 : https://github.com/jun-0318/project1206.git
 
 3. git 사용해본 소감
 Q. 형상관리 도구 git을 사용하기 전과, 사용하고 나서 느낀점을 적어주세요. <br>
